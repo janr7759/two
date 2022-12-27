@@ -1,0 +1,8 @@
+Basic Concepts
+## Azure account (create this first)
+## Subscriptions (this is a way of billing on how much you use on Azure
+## Azure AD = this is identity store, get a free one as part of account
+## Resource group - logical mapping of resources
+## Resource - resource needs to be mapped onto a resource group, a location and subscription as well
+
+
