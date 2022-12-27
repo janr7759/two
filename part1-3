@@ -1,0 +1,6 @@
+Azure VM
+## a resource needs to be part of azure subscription
+## resource needs to be in resource group
+## machine will get an OS disk, need disk to store Os and associated data
+## vm will also get a public ip address
+## 
